@@ -1,4 +1,4 @@
-# Rapport - slutprojekt i kursen Pythonprogrammering för AI-utveckling (YKPYT26V2)*
+# Rapport - slutprojekt i kursen Pythonprogrammering för AI-utveckling (YKPYT26V2)
 
 ## Installation
 1. Skapa en virtuell python miljö

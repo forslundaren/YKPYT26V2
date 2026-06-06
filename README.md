@@ -54,6 +54,9 @@ R^2 blev då 78,68. %
 Modellen testades på 1839495 och tränades på 5518475 bilförsäljningar
 R^2 blev då 18.78% %
 
+Modellen sparades för att kunna återanvändas. Ett exempel på gjordes också i en notebook som finns här:
+https://github.com/forslundaren/YKPYT26V2/tree/main#:~:text=2%20hours%20ago-,YKPYT26V2.ipynb,-Skapades%20med%20Colab
+
 Det verkar som vi har ett problem här som behöver utredas.
 Problemet består av att förhållandet mellan olika features inte är samma för olika märken och modeller. Det går alltså inte att, på ett enkelt sätt, skapa en enda modell för alla typer av bilar.
 - En lösning är att skapa en modell för varje märke, eller i värsta fall för varje märke och modell. 
